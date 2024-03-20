@@ -1,5 +1,5 @@
-black==18.9b0
+black==24.3.0
 python-dotenv==0.9.1
-requests==2.19.1
-spotipy==2.4.4
+requests==2.31.0
+spotipy==2.22.1
 
